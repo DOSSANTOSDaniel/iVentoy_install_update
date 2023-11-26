@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #************************************************#                    
 # Auteur:  <dossantosjdf@gmail.com>              
 # Date:    26/11/2023                                                               
